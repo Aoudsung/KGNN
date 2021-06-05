@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#这个文件用于在console界面输出各项训练指标
 import os
 import gc
 import time
